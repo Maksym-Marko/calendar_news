@@ -1,0 +1,23 @@
+.mx-news-wrapper {
+    max-width: 1000px;
+    margin: 0px auto;
+}
+.mx-news-wrapper > div {
+	float: left;
+	width: 50%;
+}
+
+.mx-one-news {
+	width: 50%;
+	float: left;
+	height: 400px;
+}
+.mx-one-news h3 {
+	font-size: 15px;
+}
+.mx-one-news img {
+	width: 100%;
+}
+.mx-excerpt-wrap p {
+	font-size: 12px;
+}
